@@ -1,0 +1,8 @@
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\bin\Debug\Squash the Creeps (3D)- starter project.dll
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\bin\Debug\Squash the Creeps (3D)- starter project.pdb
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\obj\Debug\Squash the Creeps (3D)- starter project.csprojAssemblyReference.cache
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\obj\Debug\Squash the Creeps (3D)- starter project.AssemblyInfoInputs.cache
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\obj\Debug\Squash the Creeps (3D)- starter project.AssemblyInfo.cs
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\obj\Debug\Squash the Creeps (3D)- starter project.csproj.CoreCompileInputs.cache
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\obj\Debug\Squash the Creeps (3D)- starter project.dll
+A:\THE_PROJECTS\Godot\3d-squash-the-creeps\.mono\temp\obj\Debug\Squash the Creeps (3D)- starter project.pdb
